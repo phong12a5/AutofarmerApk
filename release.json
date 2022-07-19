@@ -1,7 +1,8 @@
 {
     "android": {
         "name": "Autofarmer",
-        "version": "121",
-        "link": ""
+        "version_code": "121",
+        "filename": "xyz.autofarmer.app.2.45.apk",
+        "link": "https://github.com/phong12a5/AutofarmerApk/raw/master/android/xyz.autofarmer.app.2.45.apk"
     }
 }
