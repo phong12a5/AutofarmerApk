@@ -1,20 +1,14 @@
 {
-    "android": {
-        "name": "Autofarmer",
-        "version_code": "133",
-        "filename": "xyz.autofarmer.app_3.1.0_arm64-v8a.apk",
-        "link": "https://github.com/phong12a5/AutofarmerApk/raw/master/android/arm64-v8a/xyz.autofarmer.app_3.1.0_arm64-v8a.apk"
-    },
       "armeabi-v7a": {
         "name": "Autofarmer",
-        "version_code": "133",
-        "filename": "xyz.autofarmer.app_3.1.0_armeabi-v7a.apk",
-        "link": "https://github.com/phong12a5/AutofarmerApk/raw/master/android/armeabi-v7a/xyz.autofarmer.app_3.1.0_armeabi-v7a.apk"
+        "version_code": "134",
+        "filename": "xyz.autofarmer.app_3.1.1_armeabi-v7a.apk",
+        "link": "https://github.com/phong12a5/AutofarmerApk/raw/master/android/armeabi-v7a/xyz.autofarmer.app_3.1.1_armeabi-v7a.apk"
     },
       "arm64-v8a": {
         "name": "Autofarmer",
-        "version_code": "133",
-        "filename": "xyz.autofarmer.app_3.1.0_arm64-v8a.apk",
-        "link": "https://github.com/phong12a5/AutofarmerApk/raw/master/android/arm64-v8a/xyz.autofarmer.app_3.1.0_arm64-v8a.apk"
+        "version_code": "134",
+        "filename": "xyz.autofarmer.app_3.1.1_arm64-v8a.apk",
+        "link": "https://github.com/phong12a5/AutofarmerApk/raw/master/android/arm64-v8a/xyz.autofarmer.app_3.1.1_arm64-v8a.apk"
     }
 }
